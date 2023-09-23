@@ -6,8 +6,8 @@
 
   (paper "A4")
   (title_block
-    (title "OpenCyphalServoController12")
-    (date "2023-03-27")
+    (title "CyphalServoController12/CAN")
+    (date "2023-09-24")
     (rev "0.1")
     (company "generationmake")
   )
@@ -7209,7 +7209,7 @@
   (gr_text "top" (at 79.4 108.6) (layer "F.Cu") (tstamp 55dfaca6-273d-4fe4-adc0-98a15b320228)
     (effects (font (size 1.5 1.5) (thickness 0.375)))
   )
-  (gr_text "OpenCyphalServoController12 0.1" (at 121.3 81) (layer "B.Cu") (tstamp 63413aee-0066-4d7e-97c4-ad9c9971dbe2)
+  (gr_text "CyphalServoController12/CAN 0.1" (at 121.3 81) (layer "B.Cu") (tstamp 63413aee-0066-4d7e-97c4-ad9c9971dbe2)
     (effects (font (size 0.8 0.8) (thickness 0.2)) (justify mirror))
   )
   (gr_text "bot" (at 79.4 108.63645) (layer "B.Cu") (tstamp 701bca5b-7162-4ad2-ad1a-bcfece2429a6)
@@ -7230,7 +7230,7 @@
   (gr_text "SERVO11\nSERVO10" (at 129.5 102.5) (layer "B.SilkS") (tstamp 69a0b541-2a27-4bdc-a5a8-92bccebcfe65)
     (effects (font (size 0.6 0.6) (thickness 0.15)) (justify left mirror))
   )
-  (gr_text "find data and documentation at\nhttps://github.com/generationmake/OpenCyphalServoController12" (at 139.7 87) (layer "B.SilkS") (tstamp 7c7b84ef-6d0b-4ebe-9a4d-54f54f0b1f4d)
+  (gr_text "find data and documentation at\nhttps://github.com/generationmake/CyphalServoController12-CAN" (at 139.7 87) (layer "B.SilkS") (tstamp 7c7b84ef-6d0b-4ebe-9a4d-54f54f0b1f4d)
     (effects (font (size 0.6 0.6) (thickness 0.15)) (justify left mirror))
   )
   (gr_text "+" (at 70.5 61.5) (layer "B.SilkS") (tstamp a06ded76-55fe-4fc4-a6f2-a3c6260f79c6)
