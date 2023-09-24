@@ -5,8 +5,8 @@
   (paper "A4")
 
   (title_block
-    (title "OpenCyphalServoController12")
-    (date "2023-02-04")
+    (title "CyphalServoController12/CAN")
+    (date "2023-09-24")
     (rev "0.1")
     (company "generationmake")
   )

@@ -1,7 +1,7 @@
-# OpenCyphalServoController12
+# CyphalServoController12/CAN
 Board to control up to 12 servos with a Raspberry Pi Pico to connect via CAN using OpenCyphal and UCANPHY Micro
 
-![OpenCyphalServoController12 rendering](docs/images/OpenCyphalServoController12_rendering.png)
+![CyphalServoController12/CAN rendering](docs/images/CyphalServoController12-CAN_rendering.png)
 
 ## Description
 
@@ -23,8 +23,8 @@ input voltage: 10 - 40 V
 
 ### Top
 
-![OpenCyphalServoController12 PCB top](docs/images/OpenCyphalServoController12_top.png)
+![CyphalServoController12/CAN PCB top](docs/images/CyphalServoController12-CAN_top.png)
 
 ### Bottom
 
-![OpenCyphalServoController12 PCB bot](docs/images/OpenCyphalServoController12_bot.png)
+![CyphalServoController12/CAN PCB bot](docs/images/CyphalServoController12-CAN_bot.png)
